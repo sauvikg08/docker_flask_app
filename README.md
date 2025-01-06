@@ -1,4 +1,4 @@
-Simple Python App Deployed with Flask and Docker
+# Simple Python App Deployed with Flask and Docker
 This project demonstrates a basic Python application built with the Flask framework, which displays "Hello World" when accessed. The application is containerized using Docker for easy deployment and portability.
 
 Features
@@ -7,9 +7,10 @@ Environment setup and deployment using Docker.
 Lightweight and easy to extend for learning or small-scale projects.
 Prerequisites
 Before running this project, ensure you have the following installed:
-
+```
 Python 3.8+
 Docker
+```
 
 Project Structure
 
